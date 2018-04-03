@@ -30,9 +30,7 @@ void showMenu()
 	printf("                                                                                          \n");
 	printf("                                                                                          \n");
 	printf("DICA:O arquivo messages-xxxxxxxx é gerado pelo dhcp do servidor, sendo xx a data.         \n");
-	printf("     pode ser obtido em: /var/lib/lxc/zeus/rootfs/var/log/  ou usando o comando:          \n");
-	printf("                                                                                          \n");
-	printf("scp -P 4727 root@150.164.16.234:/var/lib/lxc/zeus/rootfs/var/log/messages-xxxxxxxx /home/ \n");
+	printf("     pode ser obtido em: /var/log/         \n");
 	printf("                                                                                          \n");
 	printf("O arquivo messages-xxxxxxxx mais antigo suportado é de 11 meses anteriores ao mes atual   \n");
 	printf("------------------------------------------------------------------------------------------\n");
