@@ -16,7 +16,7 @@ void showMenu()
 	printf("USO: copie o programa e os dois arquivos necessários para o funcionamento na mesma pasta. \n");
 	printf("     use o comando:                                                                       \n");
 	printf("                                                                                          \n");
-	printf("     ./atualizaIP messages-xxxxxxxx                                                       \n");
+	printf("     ./atualizaIP                                                                         \n");
 	printf("                                                                                          \n");
 	printf("                                                                                          \n");
 	printf("Entrada: arquivo ip.csv, gerado na última data gravada e arquivo messages-xxxxxxxx        \n");
