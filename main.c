@@ -135,9 +135,3 @@ int main(int argc, char *argv[])
  	return(0);
 }
 
-
-/*
-Jan 23 03:34:23 zeus dhcpd: DHCPACK on 150.164.19.144 to 30:cd:a7:65:42:e5 via eth0
-Feb  6 12:58:27 zeus dhcpd: DHCPACK on 150.164.20.43 to 00:19:5b:e9:10:98 via eth2
-Feb  6 12:58:27 zeus dhcpd: DHCPACK on 150.164.20.4 to 00:19:5b:e9:10:98 via eth2
-*/
