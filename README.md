@@ -7,7 +7,7 @@ Process all IPv4 that were used in the messages (DCHP log) files saved in the se
 The default log location is set to /var/log/messages-*
 
 Requirements:
--Unix like server (tested on Ubuntu and CentOS)
+-Unix server (tested on Ubuntu and CentOS)
 -ip.csv file
 -messages-* log file (it opens all the messages* files in the log folder)
 
